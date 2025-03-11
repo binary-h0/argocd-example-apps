@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: binaryho.azurecr.io/order # gcr.io/heptio-images/ks-guestbook-demo
+  repository: binaryho.azurecr.io/product # gcr.io/heptio-images/ks-guestbook-demo
   tag: v1
   pullPolicy: IfNotPresent
 
